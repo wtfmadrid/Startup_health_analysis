@@ -1,6 +1,8 @@
 # Marketplace Startup Health Analysis  
 **End-to-End Case Study on Growth, Retention, Unit Economics, and Scaling Strategy**
 
+Link for PPT overview: https://docs.google.com/presentation/d/1SUGQcew0lnb1eyu6P2OQYYHWaD5w9Hho-HTBKu_gLlk/edit?usp=sharing 
+
 ## Overview
 This project analyzes a fictional labour marketplace startup using worker-level activity data and income statement data.  
 The objective is to evaluate overall business health and answer core diligence questions around:
